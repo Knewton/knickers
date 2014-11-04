@@ -1,0 +1,12 @@
+node_modules
+dist
+.tmp
+.sass-cache/
+app/lib
+node_modules/
+app/styles/css/*.css
+app/styles/css/partials/*.css
+target
+app/scripts/tmpl
+*.iml
+.idea/
